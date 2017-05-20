@@ -19,6 +19,10 @@ public class Bar_Final {
        
        System.out.println("Cristian puto");
         System.out.println("HOLA");
+        
+        while(1==1){
+           System.out.println("Main"); 
+        }
     }
     
 }
