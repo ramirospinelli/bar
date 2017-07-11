@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bar_final;
+package Datos;
 
 /**
  *
  * @author ramir
  */
-public class Bar_Final {
+public class Main {
 
     /**
      * @param args the command line arguments
@@ -19,10 +19,6 @@ public class Bar_Final {
        
        System.out.println("Cristian puto");
         System.out.println("HOLA");
-        
-        while(1==1){
-           System.out.println("Main"); 
-        }
     }
     
 }
